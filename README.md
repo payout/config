@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/ribbon-config.svg)](http://badge.fury.io/rb/ribbon-config) [![Code Climate](https://codeclimate.com/github/ribbon/event_bus/badges/gpa.svg)](https://codeclimate.com/github/ribbon/event_bus) [![Test Coverage](https://codeclimate.com/github/ribbon/event_bus/badges/coverage.svg)](https://codeclimate.com/github/ribbon/event_bus) [![Build Status](https://semaphoreci.com/api/v1/projects/2767d765-748f-4b08-bddd-3b23d894e65c/389366/shields_badge.svg)](https://semaphoreci.com/ribbon/config)
+[![Gem Version](https://badge.fury.io/rb/ribbon-config.svg)](http://badge.fury.io/rb/ribbon-config) [![Code Climate](https://codeclimate.com/github/ribbon/config/badges/gpa.svg)](https://codeclimate.com/github/ribbon/config) [![Test Coverage](https://codeclimate.com/github/ribbon/config/badges/coverage.svg)](https://codeclimate.com/github/ribbon/config) [![Build Status](https://semaphoreci.com/api/v1/projects/2767d765-748f-4b08-bddd-3b23d894e65c/389366/shields_badge.svg)](https://semaphoreci.com/ribbon/config)
 
 # ribbon-config
 A general purpose configuration utility to simplify and standardize configuration of ruby libraries.
